@@ -1,0 +1,55 @@
+Gamma2Sigma             Transformation of Gamma matrix to Sigma^(k)
+                        matrix
+Gamma2chi               Transformation of the Huesler-Reiss variogram
+                        Gamma to extremal correlation chi
+Gamma2chi_3D            Compute theoretical chi in 3D
+Gamma2graph             Transformation of Gamma matrix to graph object
+Gamma2par               Extract upper triangular part of Gamma
+Sigma2Gamma             Transformation of Sigma^(k) matrix to Gamma
+                        matrix
+V_HR                    Compute exponent measure
+censor                  Censor dataset
+chi2Gamma               Transformation of extremal correlation chi to
+                        the Huesler-Reiss variogram Gamma
+complete_Gamma          Completion of Gamma matrix on block graphs
+data2mpareto            Data standardization to multivariate Pareto
+                        scale
+dim_Gamma               Is Gamma square matrix?
+emp_chi                 Empirical estimation of extremal correlation
+                        chi
+emp_chi_mat             Empirical estimation of extremal correlation
+                        matrix chi
+emp_vario               Estimation of the variogram matrix Gamma of the
+                        Huesler-Reiss distribution
+fmpareto_HR             Parameter fitting for multivariate
+                        Huesler-Reiss Pareto distribution
+fmpareto_graph_HR       Parameter fitting for multivariate
+                        Huesler-Reiss Pareto distributions on block
+                        graphs
+graphicalExtremes       graphicalExtremes: Statistical methodology for
+                        graphical extreme value models.
+logLH_HR                Full censored log-likelihood of HR model
+logdVK_HR               Compute censored exponent measure
+logdV_HR                Compute the exponent measure density of HR
+                        distribution
+mparetomargins          Marginalize multivariate Pareto dataset
+mst_HR                  Fitting of Huesler-Reiss minimum spanning tree
+par2Gamma               Create Gamma from vector
+rmpareto                Sampling of a multivariate Pareto distribution
+rmpareto_tree           Sampling of a multivariate Pareto distribution
+                        on a tree
+rmstable                Sampling of a multivariate max-stable
+                        distribution
+rmstable_tree           Sampling of a multivariate max-stable
+                        distribution on a tree
+select_edges            Select edges to add to a graph
+set_graph_parameters    Set graphical parameters
+simu_px_HR              Simulate HR extremal functions
+simu_px_dirichlet       Simulate Dirichlet extremal functions
+simu_px_logistic        Simulate logistic extremal functions
+simu_px_neglogistic     Simulate negative logistic extremal functions
+simu_px_tree_HR         Simulate HR extremal functions on a tree
+simu_px_tree_dirichlet
+                        Simulate Dirichlet extremal functions on a tree
+simu_px_tree_logistic   Simulate logistic extremal functions on a tree
+unif                    Uniform margin
